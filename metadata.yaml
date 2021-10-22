@@ -1,0 +1,28 @@
+_repo: The-Bagpipers_66513
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    - Dudevant, Amandine-Aurore-Lucile
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia:
+    - http://en.wikipedia.org/wiki/George_Sand
+    - https://fr.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_issued: '2021-10-11'
+identifiers:
+  gutenberg: '66513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Bagpipers
+url: http://www.gutenberg.org/ebooks/66513
